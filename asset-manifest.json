@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/nutri-webpage/static/css/main.e6e5e050.css",
-    "main.js": "/nutri-webpage/static/js/main.e1a00109.js",
+    "main.css": "/nutri-webpage/static/css/main.745b80dd.css",
+    "main.js": "/nutri-webpage/static/js/main.bdf2f615.js",
+    "static/media/about2.png": "/nutri-webpage/static/media/about2.ca2e38866867c8a9a82a.png",
     "static/media/profile.JPG": "/nutri-webpage/static/media/profile.4411f1b19ee02564eb38.JPG",
-    "static/media/about.JPG": "/nutri-webpage/static/media/about.b04e3a838b9e2276df9c.JPG",
+    "static/media/ana-faria-logo.png": "/nutri-webpage/static/media/ana-faria-logo.e7e6ba0e4213f59f5fce.png",
     "static/media/testimonial3.png": "/nutri-webpage/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/ana-patricia.png": "/nutri-webpage/static/media/ana-patricia.b3a04220a6baac1e0065.png",
     "static/media/testimonial2.png": "/nutri-webpage/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/nutri-webpage/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/nutri-webpage/index.html",
-    "main.e6e5e050.css.map": "/nutri-webpage/static/css/main.e6e5e050.css.map",
-    "main.e1a00109.js.map": "/nutri-webpage/static/js/main.e1a00109.js.map"
+    "main.745b80dd.css.map": "/nutri-webpage/static/css/main.745b80dd.css.map",
+    "main.bdf2f615.js.map": "/nutri-webpage/static/js/main.bdf2f615.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6e5e050.css",
-    "static/js/main.e1a00109.js"
+    "static/css/main.745b80dd.css",
+    "static/js/main.bdf2f615.js"
   ]
 }
