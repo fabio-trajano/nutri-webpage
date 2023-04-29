@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nutri-webpage/static/css/main.e6e5e050.css",
+    "main.js": "/nutri-webpage/static/js/main.e1a00109.js",
+    "static/media/profile.JPG": "/nutri-webpage/static/media/profile.4411f1b19ee02564eb38.JPG",
+    "static/media/about.JPG": "/nutri-webpage/static/media/about.b04e3a838b9e2276df9c.JPG",
+    "static/media/testimonial3.png": "/nutri-webpage/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/nutri-webpage/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/nutri-webpage/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/nutri-webpage/index.html",
+    "main.e6e5e050.css.map": "/nutri-webpage/static/css/main.e6e5e050.css.map",
+    "main.e1a00109.js.map": "/nutri-webpage/static/js/main.e1a00109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6e5e050.css",
+    "static/js/main.e1a00109.js"
+  ]
+}
