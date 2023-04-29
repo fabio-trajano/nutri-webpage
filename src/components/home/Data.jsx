@@ -1,16 +1,17 @@
 import React from "react";
 import Typewriter from 'typewriter-effect';
+import LogoImg from "../../assets/ana-faria-logo.png";
 
 const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">
-        Ana Patricia
+      <img src={LogoImg} alt="" className="logo-name" />
       </h1>
       <h3 className="home__subtitle">
         <Typewriter
             options={{
-            strings: ["Nutricionista | 5030N [PT]",  "Nutricionista | CRN31478 [BR]"],
+            strings: ["Alimentação Saudável.",  "Nutrição Vegetariana.", "Nutrição e Psicanálise."],
             autoStart: true,
             loop: true,
             delay: 60,
@@ -28,7 +29,7 @@ const Data = () => {
             deleteSpeed: 20,
           }}
         /> */}
-        - Alimentação Saudável 🍉 <br />- Nutrição e Psicanálise 🧘 <br />- Nutrição vegetariana 🌱
+        - Nutricionista | 5030N [PT] <br />- Nutricionista | CRN31478 [BR] <br />- Psicanalista [BR] <br />🧘 🌱 🍉
       </p>
 
       <a href="#contact" className="button button--flex">

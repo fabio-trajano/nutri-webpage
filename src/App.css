@@ -10,8 +10,8 @@
   --hue: 0;
   --sat: 0%;
   --title-color: #8E6C88;
-  --title-color-dark: #594c6e;
-  --text-color: #594c6e;
+  --title-color-dark: #6D566C;
+  --text-color: #6D566C;
   --body-color: hsl(var(--hue), var(--sat), 98%);
   --container-color: #fff;
 

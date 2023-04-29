@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./header.css";
+import LogoImg from "../../assets/ana-patricia.png";
 
 const Header = () => {
   /*=============== Change Background Header ===============*/
@@ -18,7 +19,8 @@ const Header = () => {
     <header className="header">
       <nav className="nav container">
         <a href="index.html" className="nav__logo">
-          Nutricionista Ana Patricia Faria
+        {/* <img src={LogoImg} alt="" className="logo-img" /> */}
+        Nutricionista Ana Patrícia Faria
         </a>
 
         <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>

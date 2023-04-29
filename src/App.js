@@ -10,6 +10,7 @@ import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import ScrollUp from './components/scrollup/ScrollUp';
+import Calendly from './components/calendly/calendly';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
       <Skills />
       <Services />
       <Contact />
+      <Calendly />
     </main>
 
     <Footer />

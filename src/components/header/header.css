@@ -15,6 +15,10 @@
     column-gap: 1rem;
 }
 
+.logo-img {
+  height: calc(var(--header-height) - 0.5rem);
+}
+
 .nav__logo,
 .nav__toggle {
     color: var(--title-color);

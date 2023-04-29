@@ -1,12 +1,13 @@
 import React from "react";
 import "./footer.css";
+import LogoImg from "../../assets/ana-faria-logo.png";
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Ana Patricia Nutricionista</h1>
-
+        <h1 className="footer__title">Ana Patrícia Nutricionista</h1>
+        {/* <img src={LogoImg} alt="" className="logo-name" /> */}
 
         <div className="footer__social">
           <a

@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/about.JPG";
+import AboutImg from "../../assets/about2.png";
 import Info from "./Info";
 
 const About = () => {
@@ -16,7 +16,9 @@ const About = () => {
           {/* <Info /> */}
 
           <p className="about__description">
-          Formada em Nutrição pela Universidade do Porto em 20XX e blablablabla e copiei do hospital Transtornos do comportamento alimentar, Nutrição no desporto, Alimentação saudável e equílibrada nas diferentes fases de vida: pré-concepção, infância, adultos e séniores, Introdução alimentar (método convencional e Baby Led Weaning), Alimentação vegetariana.
+          Olá, sou nutricionista licenciada pela Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto.{/* Realizei meu estágio curricular no Hospital Universitário Onofre Lopes, Brasil.*/} Desde 2012, exerço atendimentos de nutrição clínica online e em clínicas e hospitais privados no Brasil e em Portugal. <br />
+          Ao longo da minha trajetória, especializei-me em diferentes áreas, incluindo um mestrado em Ciências Gastronómicas, uma pós-graduação em avaliação metabólica e nutricional, e uma pós-graduação em psicanálise. Ao longo dos anos tenho descoberto que o estudo do comportamento alimentar humano é a minha grande paixão de estudo. <br />
+          O meu objetivo é ajudar as pessoas a atingirem seus objetivos de saúde e bem-estar, físico e psíquico, por meio de uma abordagem personalizada e baseada em evidências científicas.
           </p>
 
           <a href="https://calendly.com/anapatriciafaria/consulta" className="button button--flex">

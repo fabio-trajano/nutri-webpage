@@ -12,7 +12,7 @@ const Social = () => {
       </a>
 
       <a
-        href="https://calendly.com/pt"
+        href="https://calendly.com/anapatriciafaria/consulta"
         className="home__social-icon"
         target="_blank"
       >
