@@ -1,7 +1,7 @@
 .contact__container {
-    grid-template-columns: repeat(2, max-content);
+    grid-template-rows: repeat(2, max-content);
     justify-content: center;
-    column-gap: 6rem;
+    /* column-gap: 6rem; */
     padding-bottom: 3rem;
 }
 
@@ -111,10 +111,10 @@
 /* For large devices */
 @media screen and (max-width: 992px) {
     .contact__container {
-        column-gap: 3rem;
+        /* column-gap: 3rem; */
     }
   }
-  
+
   /* For medium devices */
   @media screen and (max-width: 768px) {
     .contact__container {
@@ -130,7 +130,7 @@
         margin: 0 auto;
     }
   }
-  
+
   @media screen and (max-width: 576px) {
     .contact__info {
         grid-template-columns: 1fr;
@@ -140,8 +140,7 @@
         width: 100%;
     }
   }
-  
+
   /* For small devices */
   @media screen and (max-width: 350px) {
   }
-  

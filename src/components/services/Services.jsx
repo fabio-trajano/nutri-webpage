@@ -16,7 +16,7 @@ const Services = () => {
       <div className="services__container container grid">
         <div className="services__content">
           <div>
-            <i className="uil uil-web-grid services__icon"></i>
+            <i className="uil uil-clipboard-alt services__icon"></i>
             <h3 className="services__title">
               Consulta <br /> Nutrição
             </h3>
@@ -85,7 +85,7 @@ const Services = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-arrow services__icon"></i>
+            <i className="uil uil-brain services__icon"></i>
             <h3 className="services__title">
               Consulta <br /> Psicanálise
             </h3>
@@ -109,43 +109,42 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Ui/Ux Designer</h3>
+              <h3 className="services__modal-title">Consulta Psicanálise</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                Mais textos e textso e textos....
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    Pipipippapapa
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">Pipipippapapa</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I position your company brand.
+                  Pipipippapapa
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                  Pipipippapapa
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">
+                  Pipipippapapa
                   </p>
                 </li>
               </ul>
@@ -179,43 +178,42 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Visual Designer</h3>
+              <h3 className="services__modal-title">Mutrição e Psicanálise</h3>
               <p className="services__modal-description">
-                Service with more than 3 years of experience.Providing quality
-                work to clients and companies.
+                Atendimento de nutrição e Psicanálise combinados para o melhor bem-estar do paciente e para conseguir atingir e manter os objetivos.
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    Acompanhamento psicológico.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">Plano alimentar</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I position your company brand.
+                    Outras coisas.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies.
+                    Outras coisas.
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">
+                    Link para marcação?
                   </p>
                 </li>
               </ul>

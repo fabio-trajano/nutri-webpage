@@ -9,9 +9,9 @@
   /*Color mode HSL(hue, saturation, lightness)*/
   --hue: 0;
   --sat: 0%;
-  --title-color: rgb(175, 83, 116);
-  --title-color-dark: rgb(107, 76, 87);
-  --text-color: rgb(107, 76, 87);
+  --title-color: #8E6C88;
+  --title-color-dark: #594c6e;
+  --text-color: #594c6e;
   --body-color: hsl(var(--hue), var(--sat), 98%);
   --container-color: #fff;
 

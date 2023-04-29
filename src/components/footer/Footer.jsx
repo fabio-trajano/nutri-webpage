@@ -26,7 +26,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://calendly.com/pt"
+            href="https://calendly.com/anapatriciafaria/consulta"
             className="footer__social-link"
             target="_blank"
           >

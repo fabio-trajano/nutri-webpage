@@ -10,7 +10,7 @@ const Data = () => {
       <h3 className="home__subtitle">
         <Typewriter
             options={{
-            strings: ["Alimentação saudável. 🍉",  "Nutrição e Psicanálise. 🧘", "Nutrição vegetariana. 🌱"],
+            strings: ["Nutricionista | 5030N [PT]",  "Nutricionista | CRN31478 [BR]"],
             autoStart: true,
             loop: true,
             delay: 60,
@@ -28,7 +28,7 @@ const Data = () => {
             deleteSpeed: 20,
           }}
         /> */}
-        Frase inspiradora e bonita.. ou colocar o efeito do texto aqui e lá so Nutricionista.
+        - Alimentação Saudável 🍉 <br />- Nutrição e Psicanálise 🧘 <br />- Nutrição vegetariana 🌱
       </p>
 
       <a href="#contact" className="button button--flex">

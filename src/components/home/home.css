@@ -68,7 +68,8 @@
   width: 320px;
   height: 320px;
   border-radius: 50%;
-  border: solid 5px rgba(175, 83, 116, 90%);
+  border: solid 5px #8E6C88;
+  margin-top: 30px;
 }
 
 
