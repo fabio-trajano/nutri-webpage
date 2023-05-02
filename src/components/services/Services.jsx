@@ -75,7 +75,13 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    O que mais que tem?
+                  <a
+                    href="https://calendly.com/anapatriciafaria/consulta"
+                    className="contact__button"
+                  >
+                    Marcação{" "}
+                    <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                  </a>
                   </p>
                 </li>
               </ul>
