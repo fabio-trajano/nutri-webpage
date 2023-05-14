@@ -69,14 +69,14 @@ const Calendly = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    O que mais que tem?
+                  Info.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    O que mais que tem?
+                  Info.
                   </p>
                 </li>
               </ul>
@@ -112,40 +112,40 @@ const Calendly = () => {
 
               <h3 className="services__modal-title">Consulta Psicanálise</h3>
               <p className="services__modal-description">
-                Mais textos e textso e textos....
+                Acompanhamento psicológico
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Pipipippapapa
+                  Info.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Pipipippapapa</p>
+                  <p className="services__modal-info">Info.</p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                  Pipipippapapa
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                  Pipipippapapa
+                  Info.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                  Pipipippapapa
+                  Info.
+                  </p>
+                </li>
+
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">
+                  Info.
                   </p>
                 </li>
               </ul>
@@ -200,21 +200,21 @@ const Calendly = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Outras coisas.
+                    Info.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Outras coisas.
+                  Info.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Link para marcação?
+                  Info.
                   </p>
                 </li>
               </ul>
@@ -224,7 +224,7 @@ const Calendly = () => {
 
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
+            <i className="uil uil-calendar-alt services__icon"></i>
             <h3 className="services__title">
               Marcação<br /> Online
             </h3>

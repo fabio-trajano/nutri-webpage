@@ -36,7 +36,8 @@ const Footer = () => {
         </div>
 
         <span className="footer__copy">
-          &#169; fabio-trajano. All rigths reserved
+          Copyright &#169; Ana Patrícia Faria. Designed by <a
+          href="https://github.com/fabio-trajano" target="_blank" >Fabio Ramalho</a>
         </span>
       </div>
     </footer>

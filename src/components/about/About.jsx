@@ -21,7 +21,7 @@ const About = () => {
           O meu objetivo é ajudar as pessoas a atingirem seus objetivos de saúde e bem-estar, físico e psíquico, por meio de uma abordagem personalizada e baseada em evidências científicas.
           </p>
 
-          <a href="https://calendly.com/anapatriciafaria/consulta" className="button button--flex">
+          <a href="https://calendly.com/anapatriciafaria/consulta" target="_blank" className="button button--flex">
             Marcação
             <i className="uil uil-calendar-alt button__icon"></i>
             {/* <svg

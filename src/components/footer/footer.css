@@ -50,6 +50,16 @@
     font-size: var(--smaller-font-size);
 }
 
+.footer__copy a {
+  text-decoration: none;
+  color: var(--title-color);
+}
+
+.footer__copy a:hover {
+  text-decoration: none;
+  color: var(--title-color-dark);
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -59,3 +69,9 @@
         font-size: 1rem;
     }
   }
+
+@media screen and (max-width: 768px) {
+  .footer__title {
+    display: none;
+  }
+}
