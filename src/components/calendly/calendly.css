@@ -112,6 +112,17 @@
   font-size: var(--small-font-size);
 }
 
+.services__modal a {
+  color: var(--title-color);
+  text-decoration: none;
+}
+
+.services__modal a:hover {
+
+  color: var(--text-color);
+  text-decoration: none;
+}
+
 /* Active Modal */
 .active-modal {
   opacity: 1;

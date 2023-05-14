@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./calendly.css";
 import Calendar from "./inlinecalendar";
+import Ebook01 from "../../assets/ebook01.pdf"
 
 const Calendly = () => {
   const [toggleState, setToggleState] = useState(0);
@@ -252,6 +253,88 @@ const Calendly = () => {
             </div>
           </div>
         </div>
+
+        <div className="services__content">
+          <div>
+            <i className="uil uil-book-open services__icon"></i>
+            <h3 className="services__title">
+              E-books <br /> Gratuitos
+            </h3>
+          </div>
+
+          <span onClick={() => toggleTab(5)} className="services__button">
+            Mais info
+            <i className="uil uil-arrow-right services__button-icon"></i>
+          </span>
+
+          <div
+            className={
+              toggleState === 5
+                ? "services__modal active-modal"
+                : "services__modal"
+            }
+          >
+            <div className="services__modal-content">
+              <i
+                onClick={() => toggleTab(0)}
+                className="uil uil-times services__modal-close"
+              ></i>
+
+              <h3 className="services__modal-title">E-books</h3>
+              <p className="services__modal-description">
+                E-books gratuitos para baixar
+              </p>
+
+              <ul className="services__modal-services grid">
+                <a href={Ebook01}>
+                  <li className="services__modal-service">
+                    <i className="uil uil-import services__modal-icon"></i>
+                      <p className="services__modal-info">
+                      Receitas para a saúde física e emocional
+                      </p>
+                  </li>
+                </a>
+
+                <a href={Ebook01}>
+                  <li className="services__modal-service">
+                    <i className="uil uil-import services__modal-icon"></i>
+                      <p className="services__modal-info">
+                      Alimentação Vegan e Vegetariana: Como começar?
+                      </p>
+                  </li>
+                </a>
+
+                <a href={Ebook01}>
+                  <li className="services__modal-service">
+                    <i className="uil uil-import services__modal-icon"></i>
+                      <p className="services__modal-info">
+                      Snacks Saudáveis Vegetarianos
+                      </p>
+                  </li>
+                </a>
+
+                <a href={Ebook01}>
+                  <li className="services__modal-service">
+                    <i className="uil uil-import services__modal-icon"></i>
+                      <p className="services__modal-info">
+                      A importância da redução de sal na alimentação
+                      </p>
+                  </li>
+                </a>
+
+                <a href={Ebook01}>
+                  <li className="services__modal-service">
+                    <i className="uil uil-import services__modal-icon"></i>
+                      <p className="services__modal-info">
+                      A relação entre a nutrição e a psicanálise
+                      </p>
+                  </li>
+                </a>
+              </ul>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
   );
