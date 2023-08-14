@@ -1,7 +1,7 @@
 import React from "react";
 import "./skills.css";
-import Frontend from "./Frontend";
-import Backend from "./Backend";
+import Nutricao from "./Nutricao";
+import Psicanalise from "./Psicanalise";
 
 const Skills = () => {
   return (
@@ -10,8 +10,8 @@ const Skills = () => {
       <span className="section__subtitle">-</span>
 
       <div className="skills__container container grid">
-        <Frontend />
-        <Backend />
+        <Nutricao />
+        <Psicanalise />
       </div>
     </section>
   );

@@ -1,9 +1,9 @@
 import React from "react";
 
-const Frontend = () => {
+const Psicanalise = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Nutrição</h3>
+      <h3 className="skills__title">Psicanálise</h3>
 
       <div className="skills__box">
         <div className="skills__group">
@@ -11,7 +11,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Obesidade</h3>
+              <h3 className="skills__name">Adultos</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Nutrição Pediátrica</h3>
+              <h3 className="skills__name">Adolescentes</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -29,7 +29,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Síndrome Intestino Irritado</h3>
+              <h3 className="skills__name">Consultoria Familiar</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -40,7 +40,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Nutrição Vegetariana</h3>
+              <h3 className="skills__name">Psicossomatismo</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Nutrição Desportiva</h3>
+              <h3 className="skills__name">Disturbios alimentares</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -58,7 +58,7 @@ const Frontend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Magreza e Desnutrição</h3>
+              <h3 className="skills__name">O que mais? hehe</h3>
               <span className="skills__level"></span>
             </div>
           </div>
@@ -68,4 +68,4 @@ const Frontend = () => {
   );
 };
 
-export default Frontend;
+export default Psicanalise;

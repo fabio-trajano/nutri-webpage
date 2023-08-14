@@ -29,7 +29,7 @@ const Data = () => {
             deleteSpeed: 20,
           }}
         /> */}
-        - Nutricionista | 5030N [PT] <br />- Nutricionista | CRN31478 [BR] <br />- Psicanalista [BR] <br />🧘 🌱 🍉
+        - Nutricionista | 5030N [PT] - CRN31478 [BR]<br />- Psicanalista [BR] <br />🧘 🌱 🍉
       </p>
 
       <a href="#contact" className="button button--flex">
