@@ -62,6 +62,15 @@ const Nutricao = () => {
               <span className="skills__level"></span>
             </div>
           </div>
+
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Alergias e intoleranciâncias</h3>
+              <span className="skills__level"></span>
+            </div>
+          </div>
         </div>
       </div>
     </div>
