@@ -13,7 +13,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about__img" />
 
         <div className="about__data">
-          {/* <Info /> */}
+          <Info />
 
           <p className="about__description">
           Olá, sou nutricionista licenciada pela Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto.{/* Realizei meu estágio curricular no Hospital Universitário Onofre Lopes, Brasil.*/} Desde 2012, exerço atendimentos de nutrição clínica online e em clínicas e hospitais privados no Brasil e em Portugal. <br /><br />
