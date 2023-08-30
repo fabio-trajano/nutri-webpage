@@ -16,9 +16,10 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-          Olá, sou nutricionista licenciada pela Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto.{/* Realizei meu estágio curricular no Hospital Universitário Onofre Lopes, Brasil.*/} Desde 2012, exerço atendimentos de nutrição clínica online e em clínicas e hospitais privados no Brasil e em Portugal. <br /><br />
-          Ao longo da minha trajetória, especializei-me em diferentes áreas, incluindo um mestrado em Ciências Gastronómicas, uma pós-graduação em avaliação metabólica e nutricional, e uma pós-graduação em psicanálise. Ao longo dos anos tenho descoberto que o estudo do comportamento alimentar humano é a minha grande paixão de estudo. <br /><br />
-          O meu objetivo é ajudar as pessoas a atingirem seus objetivos de saúde e bem-estar, físico e psíquico, por meio de uma abordagem personalizada e baseada em evidências científicas.
+          Sou nutricionista licenciada pela Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto. Com mais de uma década de experiência, atuo tanto online quanto em clínicas e hospitais privados no Brasil e em Portugal. Minha paixão é o estudo do comportamento alimentar humano. Minha formação abrange nutrição clínica, ciências gastronômicas, avaliação metabólica e psicanálise. Meu objetivo é promover saúde física e mental por meio de uma abordagem personalizada e embasada em evidências científicas.
+          {/* Olá, sou nutricionista licenciada pela Faculdade de Ciências da Nutrição e Alimentação da Universidade do Porto.Realizei meu estágio curricular no Hospital Universitário Onofre Lopes, Brasil. Desde 2012, exerço atendimentos de nutrição clínica online e em clínicas e hospitais privados no Brasil e em Portugal. <br /><br />
+          {/* Ao longo da minha trajetória, especializei-me em diferentes áreas, incluindo um mestrado em Ciências Gastronómicas, uma pós-graduação em avaliação metabólica e nutricional, e uma pós-graduação em psicanálise. Ao longo dos anos tenho descoberto que o estudo do comportamento alimentar humano é a minha grande paixão de estudo. <br /><br /> */}
+          {/* O meu objetivo é ajudar as pessoas a atingirem seus objetivos de saúde e bem-estar, físico e psíquico, por meio de uma abordagem personalizada e baseada em evidências científicas. */}
           </p>
 
           <a href="https://calendly.com/anapatriciafaria/consulta" target="_blank" className="button button--flex">
