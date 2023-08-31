@@ -49,7 +49,7 @@ const Psicanalise = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Disturbios alimentares</h3>
+              <h3 className="skills__name">Distúrbios alimentares</h3>
               <span className="skills__level"></span>
             </div>
           </div>
