@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nutri-webpage/static/css/main.82c8c9bf.css",
-    "main.js": "/nutri-webpage/static/js/main.18ea3d93.js",
+    "main.js": "/nutri-webpage/static/js/main.36844342.js",
     "static/media/ebook01.pdf": "/nutri-webpage/static/media/ebook01.a85f57f3f0d7052c549b.pdf",
     "static/media/about2.png": "/nutri-webpage/static/media/about2.ca2e38866867c8a9a82a.png",
     "static/media/profile.JPG": "/nutri-webpage/static/media/profile.4411f1b19ee02564eb38.JPG",
@@ -12,10 +12,10 @@
     "static/media/testimonial1.png": "/nutri-webpage/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/nutri-webpage/index.html",
     "main.82c8c9bf.css.map": "/nutri-webpage/static/css/main.82c8c9bf.css.map",
-    "main.18ea3d93.js.map": "/nutri-webpage/static/js/main.18ea3d93.js.map"
+    "main.36844342.js.map": "/nutri-webpage/static/js/main.36844342.js.map"
   },
   "entrypoints": [
     "static/css/main.82c8c9bf.css",
-    "static/js/main.18ea3d93.js"
+    "static/js/main.36844342.js"
   ]
 }
